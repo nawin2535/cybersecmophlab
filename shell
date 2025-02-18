@@ -1,1 +1,4 @@
-cat etc/passwd
+<?php
+//http://203.157.84.100:6002/
+phpinfo();
+?>
